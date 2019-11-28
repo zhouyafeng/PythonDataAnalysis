@@ -7,13 +7,13 @@ capture03_ScientificComputingLibrary
 
 ### [NumPy](./NumPy)
 
-- [NumPy-创建ndarray数组之array函数](NumPy-创建ndarray数组之array函数.ipynb)
-- [NumPy-创建ndarray数组之创建指定形状的数组](NumPy-创建ndarray数组之创建指定形状的数组.ipynb)
-- [NumPy-创建ndarray数组之like系列](NumPy-创建ndarray数组之like系列.ipynb)
-- [NumPy-创建ndarray数组之创建等差等比数组](NumPy-创建ndarray数组之创建等差等比数组.ipynb)
-- [NumPy-创建ndarray数组之from系列](NumPy-创建ndarray数组之from系列.ipynb)
-- [NumPy-数组的拼接与合并](NumPy-数组的拼接与合并.ipynb)
-- [NumPy-文件操作](NumPy-文件操作.ipynb)
+- [NumPy-创建ndarray数组之array函数](NumPy/NumPy-创建ndarray数组之array函数.ipynb)
+- [NumPy-创建ndarray数组之创建指定形状的数组](NumPy/NumPy-创建ndarray数组之创建指定形状的数组.ipynb)
+- [NumPy-创建ndarray数组之like系列](NumPy/NumPy-创建ndarray数组之like系列.ipynb)
+- [NumPy-创建ndarray数组之创建等差等比数组](NumPy/NumPy-创建ndarray数组之创建等差等比数组.ipynb)
+- [NumPy-创建ndarray数组之from系列](NumPy/NumPy-创建ndarray数组之from系列.ipynb)
+- [NumPy-数组的拼接与合并](NumPy/NumPy-数组的拼接与合并.ipynb)
+- [NumPy-文件操作](NumPy/NumPy-文件操作.ipynb)
 
 
 
